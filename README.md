@@ -1,2 +1,2 @@
 # vincentagwu.github.io
-MyFitnessContact-Landingpag
+MyFitnessContact-Landingpage
